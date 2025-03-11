@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m Thanh-Noi
 
-- 👀 I am interested in how human activities affect surface climate using remote sensing techniques.
-- 🌱 My research focuses on the complex interactions between human activities and climate change, particularly their impacts on the environment and human health. I employ GIS, Earth observation data, and a range of geospatial methodologies to analyze these dynamics and develop innovative solutions for a more sustainable and healthier future.
+I am currently a Postdoctoral Researcher in the [Department of Geography](https://www.geo.lmu.de/geographie/de/personen/kontaktseite/thanh-noi-phan-8f56f36c.html) at Ludwig-Maximilians-Universität München (LMU), Munich, Germany.
+
+🌱 My research focuses on the complex interactions between human activities and climate change, particularly their impacts on the environment and human health. I employ GIS, remotely sensed data, and a range of geospatial methodologies to analyze these dynamics and develop innovative solutions for a more sustainable and healthier future.
 
 ### Find out more about my research 👉
 
