@@ -12,7 +12,8 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 
-<p align='left'>You can view my research contributions and publications on my academic profiles.</p>
+
+My CV can be found [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
 
 <!---
 thanhnoiphan/thanhnoiphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
