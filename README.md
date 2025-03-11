@@ -15,7 +15,11 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 
 You can find my CV [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
 
-<img src='https://github.com/thanhnoiphan/tnphan/blob/main/github_img/Pr%C3%A4sentation1.jpg' width='750'> 
+
+#### “The application of GIS is limited only by the imagination of those who use it.” 
+Jack Dangermond, ESRI
+
+
 
 <!---
 thanhnoiphan/thanhnoiphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
