@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 
 
-My CV can be found [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
+You can find my CV [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
 
 <img src='https://github.com/thanhnoiphan/tnphan/blob/main/github_img/Pr%C3%A4sentation1.jpg' width='750'> 
 
