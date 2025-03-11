@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Thanh-Noi
 
 - 👀 I am interested in how human activities affect surface climate using remote sensing techniques.
-- 🎓 I am currently a researcher focused on environmental science and remote sensing applications.
-- 🌱 I am passionate about biodiversity conservation and sustainable land management.
-- 📫 How to reach me:
+- 🌱 I am interested in how the interaction between human activities and climate change affects the environment and human health. I use GIS, Earth observation data, and various geospatial approaches to understand these interactions and develop solutions for a sustainable and healthier future.
+
+### Find out more about my research 👉
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phanthanhnoi@gmail.com)](mailto:phanthanhnoi@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
