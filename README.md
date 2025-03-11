@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Thanh-Noi
 
 - 👀 I am interested in how human activities affect surface climate using remote sensing techniques.
-- 🌱 I am interested in how the interaction between human activities and climate change affects the environment and human health. I use GIS, Earth observation data, and various geospatial approaches to understand these interactions and develop solutions for a sustainable and healthier future.
+- 🌱 My research focuses on the complex interactions between human activities and climate change, particularly their impacts on the environment and human health. I employ GIS, Earth observation data, and a range of geospatial methodologies to analyze these dynamics and develop innovative solutions for a more sustainable and healthier future.
 
 ### Find out more about my research 👉
 
