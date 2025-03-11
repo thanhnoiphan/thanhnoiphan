@@ -15,6 +15,8 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 
 My CV can be found [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
 
+<img src='https://github.com/thanhnoiphan/tnphan/blob/main/github_img/Pr%C3%A4sentation1.jpg' width='750'> 
+
 <!---
 thanhnoiphan/thanhnoiphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
