@@ -14,7 +14,7 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
 
 
-You can find my CV [here](https://drive.google.com/file/d/1U5O9JYOuj1JqDxaYTl2ag8d1LHAUopZm/view?usp=drive_link) 
+You can find my CV [here](https://thanhnoiphan.github.io/assets/files/cv.pdf) 
 
 
 <!---
