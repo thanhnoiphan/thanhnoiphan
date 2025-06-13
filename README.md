@@ -12,6 +12,7 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanhnoiphan/)](https://www.linkedin.com/in/thanhnoiphan/)
 
 
 You can find my CV [here](https://thanhnoiphan.github.io/assets/files/cv.pdf) 
