@@ -15,7 +15,7 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanhnoiphan/)](https://www.linkedin.com/in/thanhnoiphan/)
 
 
-You can find my CV [here](https://thanhnoiphan.github.io/assets/files/cv.pdf) 
+You can find my CV [here](https://thanhnoiphan.github.io/assets/files/Phan_CV.pdf) 
 
 
 <!---
