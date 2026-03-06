@@ -4,6 +4,13 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 
 🌱 My research focuses on the complex interactions between human activities and climate change, particularly their impacts on the environment and human health. I employ GIS, remotely sensed data, and a range of geospatial methodologies to analyze these dynamics and develop innovative solutions for a more sustainable and healthier future.
 
+### 🌍 Monitoring Ecosystem Dynamics from Space
+
+<p align="center">
+  <img src="https://github.com/thanhnoiphan/thanhnoiphan/blob/main/Veg_anim_Mongolia.gif" width="850">
+</p>
+
+
 ### Find out more about my research 👉
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phanthanhnoi@gmail.com)](mailto:phanthanhnoi@gmail.com) 
