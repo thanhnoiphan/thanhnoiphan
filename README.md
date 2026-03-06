@@ -7,7 +7,7 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 ### 🌍 Monitoring Ecosystem Dynamics from Space
 
 <p align="center">
-  <img src="https://github.com/thanhnoiphan/thanhnoiphan/blob/main/Veg_anim_Mongolia.gif" width="850">
+  <img src="Veg_anim_Mongolia.gif" width="850">
 </p>
 
 
