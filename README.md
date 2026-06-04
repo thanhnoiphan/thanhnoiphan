@@ -13,7 +13,6 @@ I am currently a Postdoctoral Researcher in the [Department of Geography](https:
 ### 🌍 Freshwater Biodiversity Monitoring
 > European freshwater macroinvertebrate richness trend explorer
 
-<br> 
 https://tn-phan.shinyapps.io/macroinvertebrate_app/
 
 <br> 
