@@ -19,6 +19,11 @@ https://tn-phan.shinyapps.io/macroinvertebrate_app/
 <br> 
 <img src='https://github.com/thanhnoiphan/freshwater_biodiversity/blob/main/Explore_Data_ShinyApp.png' width=750>
 
+### 💻Network Traffic Flow
+> Simulated traffic flow across the Munich road network
+<img src='https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Output_Viz/figure_02_traffic_flow_map.png' width='750'> 
+
+
 ### Find out more about my research 👉
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phanthanhnoi@gmail.com)](mailto:phanthanhnoi@gmail.com) 
